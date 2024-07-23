@@ -8,7 +8,7 @@ The [Center for Anytime Anywhere Analytics (CA3)](https://ca3.au.dk) conducts re
 
 We serve human advancement by enabling people to understand data through augmenting their physical and cognitive environments so that they can confirm the expected and discover the unexpected for the benefit of critical thinking and evidence-based decision making. 
 
-To learn more about the underlying motivation behind this Center, click on the following image to hear directly from the Director, Villium Investigator and Full Professor in Computer Science Dr. Niklas Elmqvist.
+To learn more about the underlying motivation behind this Center, click on the following image to hear directly from the Director, Villium Investigator and Full Professor in Computer Science [Dr. Niklas Elmqvist](https://cs.au.dk/~elm/).
 
 [![thumbnnail-data-analytics-anywhere-everywhere](https://github.com/user-attachments/assets/5ccf1259-d550-48bd-9c9b-94bf56c5918d)](https://youtu.be/2BGr7INr3N0)
 
