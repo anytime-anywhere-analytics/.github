@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/6702b341-0404-4230-b590-f1b049a4cbbf" width="150" />
 <h3>The Center for Anytime Anywhere Analytics</h3>
-<sup>CA3 was funded by a Villum Investigator grant awarded from VILLUM FONDEN (Grant No. `54492`) in September 2023.</sup>
+<sup>CA3 was funded by a Villum Investigator grant awarded from VILLUM FONDEN (Grant No. 54492) in September 2023.</sup>
 
 ---
 
